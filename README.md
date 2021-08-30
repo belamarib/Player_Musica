@@ -1,5 +1,5 @@
 # Player_Musica
-Projeto em dupla de um player de música desenvolvido em Java na disciplina de Infraestrutura de Software (IF677), no semestre 2020.2 de ciência da computação (UFPE).
+Projeto em dupla de um player de música com interface gráfica desenvolvido em Java na disciplina de Infraestrutura de Software (IF677), no semestre 2020.2 de Ciência da Computação (UFPE).
 
 O projeto utiliza threads e a biblioteca Java Swing, e possui as seguintes funções:
 
